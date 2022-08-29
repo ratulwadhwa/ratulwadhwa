@@ -5,7 +5,7 @@
 - <b>R Shiny Projects</b>
   - [Air Pollution](https://github.com/etc5523-2021/shiny-assessment-ratulwadhwa.git)
   - [Road Crash Analylsis in Canberra](https://github.com/ratulwadhwa/Road-Accidents-in-Canberra.git)
-  - [Solar Energy Generation in Monash University Clayton Campus](https://github.com/ratulwadhwa/Road-Accidents-in-Canberra.git)
+  - [Solar Energy Generation in Monash University Clayton Campus](https://github.com/ratulwadhwa/Solar-Energy-Generation.git)
 - <b>Blog Posts</b>
   - [Coronavirus Updates](https://github.com/etc5523-2021/blog-ratulwadhwa.git)
 - <b>R Packages</b>
