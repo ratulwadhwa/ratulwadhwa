@@ -1,7 +1,28 @@
 <h1>Hi, I'm Ratul! 
 
-<h2> toolbox:Languages & IDEs:</h2>
-
+<h2> :toolbox: Languages & IDEs:</h2>
+  
+- <b>R Languages & Analytics</b>
+  
+<p>  
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" height="20" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau" height="20" style="vertical-align:top; margin:4px">
+  </p>
+  
+- <b>R Frameworks & Library</b>
+ <p>
+  <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" height="20" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white" alt="Leaflet" height="20" style="vertical-align:top; margin:4px">
+  </p>
+  
+- <b>R IDE & Version Control</b>
+  
+ <p>
+  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" alt="RStudio" height="20" style="vertical-align:top; margin:4px">
+  <img src="https://git-scm.com/images/logos/2color-lightbg@2x.png" alt="Git" height="20" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="20" style="vertical-align:top; margin:4px">
+</p>
+  
 <h2>👨‍💻 R Projects:</h2>
 
 - <b>R Shiny Projects</b>
