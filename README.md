@@ -39,10 +39,13 @@
   - Excel Skills for Business: Essentials
 
 <h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="RatulWadhwa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="RatulWadhwa | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[instagram]: https://www.instagram.com/ratulwadhwaa/
-[linkedin]: https://www.linkedin.com/in/ratul-wadhwa-9b5aa815b/
+  
+  <p>
+<a href="mailto:ratulwadhwa08@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30" style="vertical-align:top; margin:4px">
+</a>
+<a href="https://www.linkedin.com/in/ratul-wadhwa-9b5aa815b/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="30" style="vertical-align:top; margin:4px">
+</a>
+</a></p>
 
